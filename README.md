@@ -1,2 +1,3 @@
 # BackgroundGenerator
-Gradient live background colors change
+Gradient live background colors changer;
+ 
